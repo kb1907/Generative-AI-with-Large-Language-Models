@@ -11,7 +11,6 @@
 - Use empirical scaling laws to optimize the model's objective function across dataset size, compute budget, and inference requirements
 - Apply state-of-the-art training, tuning, inference, tools, and deployment methods to maximize the performance of models within the specific constraints of your project 
 - Discuss the challenges and opportunities that generative AI creates for businesses after hearing stories from industry researchers and practitioners
-
 **Projects**
 --------------
 - [Generative AI Use Case: Summarize Dialogue](https://github.com/kb1907/Generative-AI-with-Large-Language-Models/blob/main/Projects-Labs/Lab_1_summarize_dialogue.ipynb)

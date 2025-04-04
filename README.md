@@ -24,5 +24,5 @@ This folder contains [Generative AI with Large Language Models](https://www.cour
 
 
 --------------
-All the best 🤘
+All the best
 

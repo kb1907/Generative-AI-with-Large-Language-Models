@@ -8,6 +8,7 @@ This folder contains [Generative AI with Large Language Models](https://www.cour
 ------------------------------------------
 
 
+
 ## WHAT  I LEARNED
 ------------------------
 - Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works

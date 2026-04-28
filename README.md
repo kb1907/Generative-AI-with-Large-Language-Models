@@ -8,7 +8,7 @@ This folder contains [Generative AI with Large Language Models](https://www.cour
 
 ## WHAT  I LEARNED
 ------------------------
-- Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works
+- Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works.
 - Deeply understand generative AI, describing the key steps in a typical LLM-based generative AI lifecycle, from data gathering and model selection to performance evaluation and deployment
 - Describe in detail the transformer architecture that powers LLMs, how they’re trained, and how fine-tuning enables LLMs to be adapted to a variety of specific use cases
 - Use empirical scaling laws to optimize the model's objective function across dataset size, compute budget, and inference requirements

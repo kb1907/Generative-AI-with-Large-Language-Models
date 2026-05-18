@@ -17,7 +17,9 @@ This folder contains [Generative AI with Large Language Models](https://www.cour
 **Projects**
 --------------
 - [Generative AI Use Case: Summarize Dialogue](https://github.com/kb1907/Generative-AI-with-Large-Language-Models/blob/main/Projects-Labs/Lab_1_summarize_dialogue.ipynb)
+
 - [Fine-Tune a Generative AI Model for Dialogue Summarization](https://github.com/kb1907/Generative-AI-with-Large-Language-Models/blob/main/Projects-Labs/Lab_2_fine_tune_generative_ai_model.ipynb)
+
 - [Fine-Tune FLAN-T5 with Reinforcement Learning (PPO) and PEFT to Generate Less-Toxic Summaries](https://github.com/kb1907/Generative-AI-with-Large-Language-Models/blob/main/Projects-Labs/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 
 
